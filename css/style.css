@@ -7,7 +7,7 @@ body{
 }
 ul li{
     list-style: none;
-    padding:5px;
+    padding:2px;
     margin:0px;
 }
 ul li{
@@ -56,7 +56,7 @@ a:hover{
     color:rgb(154, 174, 112);
     text-align: center;
     right:50px;
-    padding:50px;
+    padding:35px;
     text-decoration: none;
     font-size:24pt;
 }
@@ -394,6 +394,7 @@ a:hover{
 
     }
     .bg {
+        background-image:none;
         background-size: auto;
     }
     .center {
