@@ -38,7 +38,6 @@ a:hover{
     background-repeat: no-repeat;
     background-size: cover;
 }
-/* Add a black background color to the top navigation */
 .topnav {
     overflow: hidden;
 }
@@ -49,7 +48,6 @@ a:hover{
 .font {
     font-size: 50px;
 }
-  /* Style the links inside the navigation bar */
 .topnav a {
     font-family: 'Montserrat', sans-serif;
     float: right;
